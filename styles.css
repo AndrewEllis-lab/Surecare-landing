@@ -16,6 +16,10 @@ body {
   align-items: center;
 }
 
+.navbar .logo img {
+  height: 120px; /* doubled from original */
+}
+
 .navbar a {
   color: white;
   text-decoration: none;
