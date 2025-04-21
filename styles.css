@@ -25,8 +25,9 @@ body {
 }
 
 .navbar .logo img {
-  height: 100%;
-  object-fit: contain;
+  height: 70px;
+  transform: scale(1.5);
+  transform-origin: left center;
 }
 
 .navbar a {
